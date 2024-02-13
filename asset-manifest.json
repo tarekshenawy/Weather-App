@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Weather-App/static/css/main.9fa093f6.css",
+    "main.js": "/Weather-App/static/js/main.54e8d0e4.js",
+    "static/js/787.aafc6230.chunk.js": "/Weather-App/static/js/787.aafc6230.chunk.js",
+    "static/media/pngtree-sun-png-clipart-colored-png-image_5656301.png": "/Weather-App/static/media/pngtree-sun-png-clipart-colored-png-image_5656301.f6032583fd719bc96df3.png",
+    "static/media/search-icon-clip-art-clkerm-vector-clip-art-online-22.png": "/Weather-App/static/media/search-icon-clip-art-clkerm-vector-clip-art-online-22.5c31142044509fd292e2.png",
+    "static/media/clouds.png": "/Weather-App/static/media/clouds.058d1121e95348721a5e.png",
+    "static/media/mist.png": "/Weather-App/static/media/mist.bec995ef50f9dab24180.png",
+    "static/media/219816.png": "/Weather-App/static/media/219816.5c27a83f11060854e761.png",
+    "static/media/drizzle.png": "/Weather-App/static/media/drizzle.586dab4fa773ec5fbaaf.png",
+    "static/media/logo.svg": "/Weather-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Weather-App/index.html",
+    "main.9fa093f6.css.map": "/Weather-App/static/css/main.9fa093f6.css.map",
+    "main.54e8d0e4.js.map": "/Weather-App/static/js/main.54e8d0e4.js.map",
+    "787.aafc6230.chunk.js.map": "/Weather-App/static/js/787.aafc6230.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fa093f6.css",
+    "static/js/main.54e8d0e4.js"
+  ]
+}
